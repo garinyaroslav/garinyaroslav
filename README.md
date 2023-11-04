@@ -1,5 +1,3 @@
-- 👋 Hi, I’m Garin Yaroslav
-- 👀 I am interested in web development
-- 🌱 I study popular web development technologies
-- 💞️ I am looking for cooperation with employers and interested
-- 📫 How to reach me: garinyaroslav13@mail.ru
+# Hi there👋!
+Slkills:
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,scss,figma)](https://skillicons.dev)
