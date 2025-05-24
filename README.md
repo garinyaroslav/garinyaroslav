@@ -5,7 +5,7 @@
 <br><br>
 
 <div align="center">
-  <h3>Connect with Me</h2>
+  <h3>Connect with Me</h3>
 </div>
 
 <br>
@@ -25,7 +25,7 @@
 <br>
 
 <div align="center">
-  <h3>My Skills</h2>
+  <h3>My Skills</h3>
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,postgres,mongodb,docker,electron,react,redux" alt="Skills">
 </div>
 
