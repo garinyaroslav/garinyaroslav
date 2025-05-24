@@ -9,6 +9,9 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=garinyaroslav&bg_color=0d1117&color=d3d3d3&line=d3d3d3&point=d3d3d3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=garinyaroslav&theme=discord&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,postgres,mongodb,docker,electron,react,redux)](https://skillicons.dev)
 ## [My personal website(https://yaroslav-dev.vercel.app/)](https://yaroslav-dev.vercel.app/)
