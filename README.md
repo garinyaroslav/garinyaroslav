@@ -9,8 +9,8 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=garinyaroslav&bg_color=0d1117&color=d3d3d3&line=d3d3d3&point=d3d3d3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center"> 
-LINK`S
+<div align="center">
+  <h2>Connect with Me</h2>
 </div>
 
 <div align="center">
@@ -25,10 +25,14 @@ LINK`S
   </a>
 </div>
 
+---
+
 <div align="center">
-<a href = "garinyaroslav@mail.ru"> <img src="https://img.shields.io/badge/Email-white?logo=gmail" target="_blank"></a>
+  <h2>My Skills</h2>
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,postgres,mongodb,docker,electron,react,redux" alt="Skills">
 </div>
 
+---
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,postgres,mongodb,docker,electron,react,redux)](https://skillicons.dev)
 ## [My personal website(https://yaroslav-dev.vercel.app/)](https://yaroslav-dev.vercel.app/)
