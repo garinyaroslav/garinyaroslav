@@ -14,8 +14,19 @@ LINK`S
 </div>
 
 <div align="center">
+  <a href="mailto:garinyaroslav13@mail.ru">
+    <img src="https://img.shields.io/badge/Email-garinyaroslav13@mail.ru-red?logo=gmail&style=for-the-badge" alt="Email">
+  </a>
+  <a href="https://t.me/garinyaroslav">
+    <img src="https://img.shields.io/badge/Telegram-@garinyaroslav-blue?logo=telegram&style=for-the-badge" alt="Telegram">
+  </a>
+  <a href="https://yaroslav-dev.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-yaroslav--dev-blue?logo=vercel&style=for-the-badge" alt="Portfolio">
+  </a>
+</div>
+
+<div align="center">
 <a href = "garinyaroslav@mail.ru"> <img src="https://img.shields.io/badge/Email-white?logo=gmail" target="_blank"></a>
-<a href="https://www.linkedin.com/in/hugo-v-lima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
 
 
