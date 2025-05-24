@@ -35,7 +35,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=garinyaroslav&show_icons=true&count_private=true&hide_border=true&title_color=d3d3d3&icon_color=d3d3d3&text_color=d3d3d3&bg_color=0d1117" alt="Igor Pierote github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garinyaroslav&layout=compact&hide_border=true&title_color=d3d3d3&text_color=d3d3d3&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eAlexandrohin&layout=compact&hide_border=true&title_color=d3d3d3&text_color=d3d3d3&bg_color=0d1117" />
 </div>
 
 <br/>
