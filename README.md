@@ -19,14 +19,12 @@
   </a>
 </div>
 
-<br/>
 
 <div align="center">
   <h2>My Skills</h2>
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,postgres,mongodb,docker,electron,react,redux" alt="Skills">
 </div>
 
-<br/>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=garinyaroslav&theme=discord&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
