@@ -34,10 +34,6 @@
 
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,postgres,mongodb,docker,electron,react,redux)](https://skillicons.dev)
-## [My personal website(https://yaroslav-dev.vercel.app/)](https://yaroslav-dev.vercel.app/)
-## To reach me: garinyaroslav13@mail.ru
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=garinyaroslav&theme=discord&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
