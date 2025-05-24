@@ -13,6 +13,12 @@
 LINK`S
 </div>
 
+<div align="center">
+<a href = "garinyaroslav@mail.ru"> <img src="[https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-white?logo=gmail)" target="_blank"></a>
+<a href="https://www.linkedin.com/in/hugo-v-lima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+</div>
+
+
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,postgres,mongodb,docker,electron,react,redux)](https://skillicons.dev)
 ## [My personal website(https://yaroslav-dev.vercel.app/)](https://yaroslav-dev.vercel.app/)
 ## To reach me: garinyaroslav13@mail.ru
@@ -20,11 +26,5 @@ LINK`S
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=garinyaroslav&theme=discord&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
-
-<div align="center">
-<br><p align="centre"><b>VISITORS COUNT</b></p> 
-<img height="80" src="https://media.tenor.com/mQt6aO1o8gAAAAAj/sonic-hedgehog.gif"/>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{garinyaroslav}/count.svg" /></p> 
-<br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2f2f2f&height=120&section=footer"/>
