@@ -24,7 +24,7 @@ LINK`S
 <div align="center">
 <br><p align="centre"><b>VISITORS COUNT</b></p> 
 <img height="80" src="https://media.tenor.com/mQt6aO1o8gAAAAAj/sonic-hedgehog.gif"/>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Hugo-Victorr}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{garinyaroslav}/count.svg" /></p> 
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2f2f2f&height=120&section=footer"/>
