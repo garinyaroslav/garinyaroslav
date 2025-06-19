@@ -31,7 +31,7 @@
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,redis,kafka,rabbitmq,postgres,mongodb,oracle" alt="Skills">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,redis,kafka,rabbitmq,postgres,mongodb" alt="Skills">
 </div>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,electron,react,redux" alt="Skills">
