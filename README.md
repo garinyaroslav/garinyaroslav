@@ -47,10 +47,10 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garinyaroslav&layout=compact&hide_border=true&title_color=d3d3d3&text_color=d3d3d3&bg_color=0d1117" />
 </div>
 
-<br>
+<!-- <br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=garinyaroslav&bg_color=0d1117&color=d3d3d3&line=d3d3d3&point=d3d3d3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<br>
+<br> -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2f2f2f&height=120&section=footer"/>
