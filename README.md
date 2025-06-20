@@ -31,9 +31,11 @@
 <br>
 
 <div align="center">
+  backend
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,redis,kafka,rabbitmq,postgres,mongodb" alt="Skills">
 </div>
 <div align="center">
+  frontend
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,electron,react,redux" alt="Skills">
 </div>
 <div align="center">
